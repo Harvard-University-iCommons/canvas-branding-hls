@@ -2,9 +2,3 @@
     visibility: hidden;
     width: 0;
 }
-.list-view > nav > ul#section-tabs > li.section > a.grading_standards {
-    display: none !important;
-}
-.list-view > nav > ul > li > a.grades {
-    display: none !important;
-}
