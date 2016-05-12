@@ -1,3 +1,4 @@
+// window.ENV.COURSE_WIZARD check: cf TLT-2602
 if (window.ENV.COURSE_WIZARD) {
     require(['jsx/course_wizard/ListItems'], function(ListItems) {
         var itemsToRemove = ['add_students', 'add_tas'];
