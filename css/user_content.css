@@ -2,3 +2,4 @@
 /* select descendants of .user_content to avoid overriding Canvas native      */
 /* a.btn elements                                                             */
 .user_content a.btn { text-decoration: none; }
+.user_content a.btn span { text-decoration: none; }
