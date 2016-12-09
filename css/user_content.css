@@ -1,0 +1,4 @@
+/* templates use a.btn, which Canvas displays with text-decoration:underline  */
+/* select descendants of .user_content to avoid overriding Canvas native      */
+/* a.btn elements                                                             */
+.user_content a.btn { text-decoration: none; }
